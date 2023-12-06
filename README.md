@@ -1,3 +1,7 @@
 # TimfyuL.github.io
 Rud Timothy E. Cruz
-aaa
+
+| o | x |   |
+|---|---|---|
+| o | x |   |
+| x | o |   |
